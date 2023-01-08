@@ -1,4 +1,4 @@
-# ieee_intern_task
+# Money Manager
 
 A new Flutter project.
 
